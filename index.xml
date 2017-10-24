@@ -6,17 +6,46 @@
     <description>Recent content on CetSec Traning &amp; Consultancy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 23 Oct 2017 18:35:00 +0300</lastBuildDate>
     
 	<atom:link href="https://cetsec.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title></title>
-      <link>https://cetsec.github.io/linux/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Index</title>
+      <link>https://cetsec.github.io/ru/</link>
+      <pubDate>Mon, 23 Oct 2017 18:35:00 +0300</pubDate>
       
-      <guid>https://cetsec.github.io/linux/</guid>
-      <description>selamlar</description>
+      <guid>https://cetsec.github.io/ru/</guid>
+      <description>привет</description>
+    </item>
+    
+    <item>
+      <title>Index</title>
+      <link>https://cetsec.github.io/ar/</link>
+      <pubDate>Mon, 23 Oct 2017 18:34:56 +0300</pubDate>
+      
+      <guid>https://cetsec.github.io/ar/</guid>
+      <description>مرحبا</description>
+    </item>
+    
+    <item>
+      <title>Index</title>
+      <link>https://cetsec.github.io/tr/</link>
+      <pubDate>Mon, 23 Oct 2017 18:33:25 +0300</pubDate>
+      
+      <guid>https://cetsec.github.io/tr/</guid>
+      <description>Merhaba</description>
+    </item>
+    
+    <item>
+      <title>Index</title>
+      <link>https://cetsec.github.io/en/</link>
+      <pubDate>Mon, 23 Oct 2017 18:32:54 +0300</pubDate>
+      
+      <guid>https://cetsec.github.io/en/</guid>
+      <description>Hello asdasdasd asdasdasd
+asdasdasdasd as detailsda sda sd asd</description>
     </item>
     
   </channel>

@@ -3,7 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://cetsec.github.io/linux/</loc>
+    <loc>https://cetsec.github.io/ru/</loc>
+    <lastmod>2017-10-23T18:35:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cetsec.github.io/ar/</loc>
+    <lastmod>2017-10-23T18:34:56+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cetsec.github.io/tr/</loc>
+    <lastmod>2017-10-23T18:33:25+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cetsec.github.io/en/</loc>
+    <lastmod>2017-10-23T18:32:54+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cetsec.github.io/ar/</loc>
+    <lastmod>2017-10-23T18:34:56+03:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -13,11 +35,30 @@
   
   <url>
     <loc>https://cetsec.github.io/</loc>
+    <lastmod>2017-10-23T18:35:00+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cetsec.github.io/en/</loc>
+    <lastmod>2017-10-23T18:32:54+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cetsec.github.io/ru/</loc>
+    <lastmod>2017-10-23T18:35:00+03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://cetsec.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cetsec.github.io/tr/</loc>
+    <lastmod>2017-10-23T18:33:25+03:00</lastmod>
     <priority>0</priority>
   </url>
   

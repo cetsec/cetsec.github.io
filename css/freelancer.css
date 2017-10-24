@@ -22,7 +22,7 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #18bc9c;
+    color: gray;
 }
 
 h1,
@@ -151,7 +151,7 @@ header .intro-text .skills {
     }
 
     .navbar-fixed-top .navbar-brand {
-        font-size: 2.5em;
+        font-size: 4em;
         -webkit-transition: all .3s;
         -moz-transition: all .3s;
         transition: all .3s;
@@ -162,7 +162,7 @@ header .intro-text .skills {
     }
 
     .navbar-fixed-top.navbar-shrink .navbar-brand {
-        font-size: 1.5em;
+        font-size: 3em;
     }
 }
 
@@ -190,7 +190,7 @@ header .intro-text .skills {
 }
 
 section {
-    padding: 100px 0;
+    padding: 150px 0;
 }
 
 section h2 {
@@ -244,6 +244,8 @@ section.success a.active {
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
+    align: center;
+
 }
 
 
@@ -312,7 +314,7 @@ section.success a.active {
 .btn-outline:active,
 .btn-outline.active {
     border: solid 2px #fff;
-    color: #18bc9c;
+    color: #93353C;
     background: #fff;
 }
 
@@ -500,4 +502,62 @@ footer .footer-below {
 .portfolio-modal .modal-backdrop {
     display: none;
     opacity: 0;
+}
+
+
+
+
+img.nat-flag{
+
+  border-style: solid;
+  border-radius: 13px;
+  border-width: thin;
+  border-color: #ffffff;
+  margin-right: 0.20em;
+
+}
+
+ul.lang-icons{
+margin-top: 0.50em;
+text-decoration: none;
+float: right;
+
+}
+
+li.language-codes{
+
+  font-size: 0.7em;
+  display: inline;
+  list-style-type: none;
+  margin-right: 0.50em;
+
+}
+
+a.lang-name{
+  text-decoration: none;
+  color: white;
+  font-size: 1.5em;
+
+}
+a.lang-name:hover{
+  color:gray;
+}
+
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
+    color: #7E2E34;
+    background-color: #ffffff;
+    border-radius: 2em;
+}
+
+h2.section-name{
+  color:#7E2E34;
+}
+
+navbar-brand:hover{
+  color: white;
+}
+
+#brand-text:hover, #menu-text:hover, #menu-text>.active>a:hover, #menu-text>.active>a:focus{
+  color: gray;
 }
